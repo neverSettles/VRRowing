@@ -7,3 +7,5 @@ the boat that the user is in accerlates.
 
 Code Originally adopted from https://github.com/edwonia/VR-Row , but modified to add controller support for oars, and upgraded packages for
 oculus quest to work with the simulation. 
+
+![Rowing](rowingvr.png)
